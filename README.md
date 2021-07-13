@@ -33,24 +33,24 @@ Data used in this project was provided from Mandob Tuwaiq delivery app. The data
 - Users: 8 features
 - OrderPayment: 5 features
  
-# 1- who are user types mainly using the app's services?
+#### 1- who are user types mainly using the app's services?
 
 ![image](https://user-images.githubusercontent.com/81440100/125507948-ab2d1830-4a97-40b2-b073-a5955714dbf7.png)
  
 The figure shows that the most user type are using the app for is buyer with 95.67%
 
-# 2-How can the user pay in mandoob tuwaiq app?,what are the most used Payment methods?
+#### 2-How can the user pay in mandoob tuwaiq app?,what are the most used Payment methods?
 ![image](https://user-images.githubusercontent.com/81440100/125504560-9165bcbd-3e22-4a22-9c86-69df1c7a2356.png)
 
 The figure shows that the product category Food is the most used cash payment method with total number of order 500 
 
-# 3-What products are user's mostly using the app's services for?
+#### 3-What products are user's mostly using the app's services for?
 
 ![image](https://user-images.githubusercontent.com/81440100/125507612-e2bdc51e-786d-48e0-8b60-8a54618c77d3.png)
 
 The figure shows that the most product that customer's are using the app for is food with 41.51% 
 
-# 4-Do the customers cancel their orders in Tuwaiq?
+#### 4-Do the customers cancel their orders in Tuwaiq?
 ![image](https://user-images.githubusercontent.com/81440100/125507782-a0072423-2045-4400-902e-733a46b6c563.png)
 
  The figure shows that the number of confirmed orders are high given the number of accepted orderes, in comparision to the cancelled orders. 
