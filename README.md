@@ -37,12 +37,12 @@ Data used in this project was provided from Mandob Tuwaiq delivery app. The data
 
 ![image](https://user-images.githubusercontent.com/81440100/125507948-ab2d1830-4a97-40b2-b073-a5955714dbf7.png)
  
- the most user type are using the app for is buyer with 95.67%
+The figure shows that the most user type are using the app for is buyer with 95.67%
 
 2-How can the user pay in mandoob tuwaiq app?,what are the most used Payment methods?
 ![image](https://user-images.githubusercontent.com/81440100/125504560-9165bcbd-3e22-4a22-9c86-69df1c7a2356.png)
 
-The figure shows Product category Food is the most used cash payment method with total number of order 500 
+The figure shows that the product category Food is the most used cash payment method with total number of order 500 
 
 3-What products are user's mostly using the app's services for?
 
