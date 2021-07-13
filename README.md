@@ -33,7 +33,7 @@ Data used in this project was provided from Mandob Tuwaiq delivery app. The data
 - Users: 8 features
 - OrderPayment: 5 features
  
-# 1- What are user types mainly using the app's services?
+# 1- who are user types mainly using the app's services?
 
 ![image](https://user-images.githubusercontent.com/81440100/125507948-ab2d1830-4a97-40b2-b073-a5955714dbf7.png)
  
