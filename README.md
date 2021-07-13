@@ -42,7 +42,7 @@ The figure shows that the most user type are using the app for is buyer with 95.
 #### 2-How can the user pay in mandoob tuwaiq app?,what are the most used Payment methods?
 ![image](https://user-images.githubusercontent.com/81440100/125504560-9165bcbd-3e22-4a22-9c86-69df1c7a2356.png)
 
-The figure shows that the product category Food is the most used cash payment method with total number of orders 500> 
+The figure shows that the product category Food is the most used cash payment method with total number 500 orders
 
 #### 3-What products are user's mostly using the app's services for?
 
