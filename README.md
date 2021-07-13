@@ -32,10 +32,10 @@ Data used in this project was provided from Mandob Tuwaiq delivery app. The data
 - Orders: 25 features
 - Users: 8 features
 - OrderPayment: 5 features
-
-# plots:
+- plots:
 ![image](https://user-images.githubusercontent.com/81440100/125504560-9165bcbd-3e22-4a22-9c86-69df1c7a2356.png)
-We created bar chart to Shows The most Payment methods based on Product category."Food"is the most used cash payment method with 500 order
+
+We created bar chart to Shows The most Payment methods based on Product category.the Food Product category is the most used cash payment method with 500 order
 
 
 
