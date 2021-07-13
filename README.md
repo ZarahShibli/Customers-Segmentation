@@ -32,6 +32,8 @@ Data used in this project was provided from Mandob Tuwaiq delivery app. The data
 - Orders: 25 features
 - Users: 8 features
 - OrderPayment: 5 features
+# the EDA plots:
+
 
 
 ## 4. Implementation <a name="model"></a> 
