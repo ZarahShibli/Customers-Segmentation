@@ -6,7 +6,8 @@
 3. [Data Exploration](#data)
 4. [Implementation](#model)
 5. [Results](#results)
-6. [Acknowledgements](#acknowledgements)
+6. [Contributors](#Contributors)
+7. [Acknowledgements](#acknowledgements)
 
 ## 1. Project Overview <a name="ProjectOverview"></a> 
 
@@ -72,5 +73,11 @@ This animation shows the result for both models.
 ![Results](https://user-images.githubusercontent.com/42017072/125319024-120ba880-e343-11eb-8d25-8abace9a2e2b.gif)
 
 
-## 6. Acknowledgements <a name="acknowledgements"></a> 
+## 6. Contributors<a name="Contributors"></a> 
+- [Wajd Alturki](https://github.com/wajdalturki)
+- [Mashael Alhassan](https://github.com/mashaelalhassan)
+- [Lama Alzahrani](https://github.com/ldfjre)
+- [Zarah Shibli](https://github.com/ZarahShibli)
+
+## 7. Acknowledgements <a name="acknowledgements"></a> 
 We wish to thank [Mandob Tuwaiq](http://mandobak.sa/) for giving us the opportunity to work on the data.. Also,Thanks, [Saudi Digital Academy](https://sda.edu.sa/)  and [Coding Dojo](https://www.codingdojo.com/) to help and guide us during the data science Bootcamp. For more details about this project can read this [article](https://medium.com/@lamaalzahrani353/3ae4d6cfd41d) and [Poster](https://www.canva.com/design/DAEj-CS_1zM/QfCQJp3WazP1bnR8EWL-AA/view?website#4). Also,  you could checkout [our dashboard](https://customer-segmentation-tuwaiq-2.herokuapp.com/) to view the full insights we’ve analyzed we’ve found.
